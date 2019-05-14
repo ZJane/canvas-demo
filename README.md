@@ -1,2 +1,2 @@
 # canvas-demo
-canvas练手走
+canvas练手作
